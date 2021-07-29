@@ -86,8 +86,8 @@ static void WifiConnectTask(void *arg)
     printf("RegisterWifiEvent: %d\r\n", errCode);
 
     // setup your AP params
-    strcpy(apConfig.ssid, "ABCD");
-    strcpy(apConfig.preSharedKey, "12345678");
+    strcpy(apConfig.ssid, "811_cluster");
+    strcpy(apConfig.preSharedKey, "hitedu811");
     apConfig.securityType = WIFI_SEC_TYPE_PSK;
 
     while (1) {
