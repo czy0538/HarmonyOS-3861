@@ -2,4 +2,5 @@
 
 
 
-![](./HiSpark_WiFi_IoT_DevKits_Hardware_Quick_Reference.png)
+![](https://picgo-1305367394.cos.ap-beijing.myqcloud.com/picgo/20210729165245.png)
+
